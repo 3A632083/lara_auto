@@ -1,0 +1,15 @@
+{
+    "name": "wang/lara_auto",
+    "authors": [
+        {
+            "name": "wong",
+            "email": "kiki87119@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "./src/Demo"
+        }
+    }
+}
