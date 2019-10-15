@@ -6,7 +6,11 @@
             "email": "kiki87119@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "monolog/monolog": "^1.25",
+        "nesbot/carbon":"^2.25"
+
+    },
     "autoload": {
         "psr-4": {
             "Demo\\": "./src/Demo"
